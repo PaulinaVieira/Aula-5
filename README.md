@@ -8,6 +8,7 @@
                 <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" alt="A imagem apresenta o grupo musical Os Mutantes. São três pessoas cantando em dois microfones" title="Os Mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
         </div>
 </section>
+
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
         <div class="container d-flex align-items-center">
                 <div class="col-4 d-flex justify-content-center">
@@ -20,7 +21,7 @@
                                 abrangeu várias expressões artísticas, como a música, o cinema, o teatro e as artes plásticas, e
                                 teve como principal característica a mistura de elementos da cultura brasileira tradicional com
                                 influências estrangeiras, especialmente do rock e da música pop. Fonte: Site Toda Matéria</p>
-                </div>
+          </div>
         </div>
 </section>
 
